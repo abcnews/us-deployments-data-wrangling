@@ -1,0 +1,22 @@
+{
+  "name": "us-deployments-data-wrangling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^0.9.0",
+    "async": "^0.9.0",
+    "batch-geocoder": "^0.2.4",
+    "csv-write-stream": "^0.2.1",
+    "csv2": "^0.1.1",
+    "node-geocoder": "^2.9.0",
+    "optimist": "^0.6.1",
+    "through": "^2.3.6",
+    "through2": "^0.6.2"
+  }
+}
